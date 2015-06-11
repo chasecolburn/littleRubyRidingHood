@@ -212,5 +212,5 @@ wolf.location = forest.deep
 	
 lunch = Lunch.new()
 littleGirl.eat(lunch)
-grandmother.eat(lunch)
+grandmother.eat(littleGirl)
 
